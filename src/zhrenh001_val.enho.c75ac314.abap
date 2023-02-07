@@ -1,0 +1,6 @@
+"Name: \PR:RPTEUP10\FO:SET_EXTREC_TO_TIMEEVENT\SE:BEGIN\EI
+ENHANCEMENT 0 ZHRENH001_VAL.
+*Inicio 053 CCV Eliminar Valores basura ## en txt
+ CLEAR EXTREC-USRUP.
+*Fin 053 CCV Eliminar Valores basura ## en txt
+ENDENHANCEMENT.
